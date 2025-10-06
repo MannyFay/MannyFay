@@ -1,6 +1,12 @@
 # Manuel-Hubertus Fay
 ## Hi there 👋
 
+You can also find me here:
+| 👇 |
+|:---:|
+| [X](https://x.com/FayManny) |
+| [LinkedIn](www.linkedin.com/in/manuel-hubertus-fay-0483a919a) |
+
 <!--
 **MannyFay/MannyFay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
