@@ -44,6 +44,7 @@ Remix&nbsp;&nbsp;·&nbsp;&nbsp;Next.js&nbsp;&nbsp;·&nbsp;&nbsp;Laravel&nbsp;&nb
 <p align="center">
   <a href="https://x.com/FayManny">X</a>&nbsp;&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/manuel-hubertus-fay-0483a919a">LinkedIn</a>&nbsp;&nbsp;·&nbsp;
+  <a href="https://www.xing.com/profile/ManuelHubertus_Fay">XING</a>&nbsp;&nbsp;·&nbsp;
   <a href="https://gitlab.com/MannyFay">GitLab</a>&nbsp;&nbsp;·&nbsp;
   <a href="https://www.instagram.com/_mannyfay/">Instagram</a>&nbsp;&nbsp;·&nbsp;
   <a href="https://discordapp.com/users/915290890111709234">Discord</a>
